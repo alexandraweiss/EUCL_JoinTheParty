@@ -1,0 +1,9 @@
+.gitignore
+.vs
+Assembly-CSharp.csproj
+.sln
+obj
+Library/
+Logs/
+Temp
+build/
